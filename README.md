@@ -1,2 +1,2 @@
-# OL-demos
+# OL-Demos
 OpenLayer + Vue demos
